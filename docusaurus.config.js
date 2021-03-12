@@ -54,7 +54,7 @@ module.exports = {
           items: [
             {
               label: "Dashboard",
-              to: "https://scheduleapi.app/app",
+              to: "https://scheduleapi.app/dashboard",
             },
             {
               label: "Privacy Policy",
