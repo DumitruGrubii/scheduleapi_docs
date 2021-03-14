@@ -90,14 +90,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/DocodeOU/scheduleapi_docs/tree/main/docs",
+          editUrl: "https://github.com/DocodeOU/scheduleapi_docs/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/DocodeOU/scheduleapi_docs/tree/main/docs",
+          editUrl: "https://github.com/DocodeOU/scheduleapi_docs/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
